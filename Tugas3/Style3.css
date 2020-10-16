@@ -1,0 +1,38 @@
+h1 {
+	font-size: 40px;
+	background-color: #A2EC91;
+	border: 5px dashed red;
+	padding: .5em;
+	margin: 2px ;
+}
+
+h2 {
+	font-size: 20;
+}
+
+body {
+	background-color: #C5F7E7;;
+}
+
+article {
+	padding-left: 25px;
+	margin-top: 1em;
+	border: 7px dotted black;
+	background-color: lightgrey;
+	color: : #9F70EE;
+	font-size: 20px;
+}
+
+ul {
+	border: 10px solid blue;
+	background-color: yellow;
+	font-size: 20px;
+}
+
+strong{
+	color: red;
+}
+
+p{
+	font-size: 20px;
+}
